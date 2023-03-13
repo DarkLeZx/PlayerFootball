@@ -22,21 +22,21 @@
             android:id="@+id/et_nama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nama Player"
+            android:hint="Nama Player"
             android:textSize="21sp"
             />
         <EditText
             android:id="@+id/et_nomor"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nomor Punggung"
+            android:hint="Nomor Punggung"
             android:textSize="21sp"
             />
         <EditText
             android:id="@+id/et_klub"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Klub"
+            android:hint="Klub"
             android:textSize="21sp"
             />
 
